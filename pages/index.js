@@ -35,7 +35,7 @@ export const QuizContainer = styled.div`
 export default function Home() {
   const router = useRouter();
   const [name, setName] = React.useState('');
-  console.log('retorno do useState', name, setName);
+ 
 
   return (
     <QuizBackground backgroundImage={db.bg}>
@@ -103,7 +103,7 @@ export default function Home() {
                 <li key={linkExterno}>
                 <Widget.Topic
                   as={Link} 
-                  href={linkExterno}
+                  href={`/quiz/${projectName}___${githubUser}`}
                 
                 >
                   {`${githubUser}/${projectName}`}
