@@ -3,7 +3,7 @@ import styled from 'styled-components'
 const Widget = styled.div`
   margin-top: 24px;
   margin-bottom: 24px;
-  border: 0px solid ${({ theme }) => theme.colors.erro};
+  border: 1px solid #3eaa74 ${({ theme }) => theme.colors.erro};
   background-color: ${({ theme }) => {
     return theme.colors.mainBg;
   }};
@@ -12,9 +12,11 @@ const Widget = styled.div`
   h1, h2, h3 {
     font-size: 16px;
     font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     line-height: 1;
     margin-bottom: 0;
   }
+  
   p {
     font-size: 14px;
     font-weight: 400;

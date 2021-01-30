@@ -5,68 +5,92 @@
   "questions": [
     {
       "image": "https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif",
-      "title": "No código descrito no arquivo index.js, o parâmetro func, passado na chamada router.get, tem como objetivo realizar:",
+      "title": "Quais foram os roteiristas e diretores de Matrix?",
       "description": "",
-      "answer": 3,
+      "answer": 2,
       "alternatives": [
-        "A chamada das funções para evitar travamento da aplicação.",
-        "O processamento do resultado enviado pela requisição.",
-        "A manutenção da requisição em execução até a conclusão do processamento.",
-        "O controle, de forma opcional, do ciclo de requisições-resposta."
+        "Joel e Ethan Coen",
+        "James Cameron e Dan O'Bannon",
+        "Lilly e Lana Wachowski",
+        "Steven spielberg"
       ]
     },
     {
       "image": "https://media.giphy.com/media/6xE1FNcorRInS/giphy.gif",
-      "title": "O jQuery pode selecionar elementos HTML a partir de seletores, otimizando o desenvolvimento. Sobre a utilização de seletores no jQuery é correto afirmar:",
+      "title": "Em Matrix, os humanos são:",
       "description": "",
-      "answer": 3,
+      "answer": 2,
       "alternatives": [
-        "$(‘td, th’); retornará todos os elementos th que são filhos de td.",
-        "$(‘#formulario’); retornará todos os elementos da classe “formulario”.",
-        "$(‘p:first’); retornará o primeiro dos elementos p.",
-        "$(‘.paragrafo’); retornará o elemento com id igual a “paragrafo”."
+        "Expulsos do planeta Terra",
+        "sacerdotes da matrix",
+        "São escravos das máquinas",
+        "Dominam as máquinas"
       ]
     },
     {
       "image": "https://media.giphy.com/media/uvoECTG2uCTrG/giphy.gif",
-      "title": "Um identificador é uma palavra usada para identificar variáveis, constantes e funções criadas pelo programador. Um identificador JavaScript deve começar com:",
+      "title": "Quais são as sequências de Matrix?",
       "description": "",
       "answer": 3,
       "alternatives": [
-         "uma letra (somente maiúscula), sustenido (#), ou cifrão ($)",
-         "uma letra (somente minúscula), underline (_), ou porcentagem (%)",
-         "uma letra (maiúscula ou minúscula), underline (#), ou cifrão (%)",
-         "uma letra (maiúscula ou minúscula), underline (_), ou cifrão ($)"
+         "Matrix Revolutions e Matrix Reloaded",
+         "Matrix 2.0” e “Matrix 3.0",
+         "Matrix o retorno e Matrix Nova Era",
+         "Matrix Reloaded e Matrix Revolutions"
       ]
     },
     {
       "image": "https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif",
-      "title": "Assinale a opção que apresenta a anotação que pode ser utilizada no JUnit para condicionar a execução de um teste a partir da avaliação de um script escrito em JavaScript.",
+      "title": "Quem foi o escolhido para salvar as pessoas daquela realidade?",
       "description": "",
-      "answer": 4,
+      "answer": 1,
       "alternatives": [
-         "@EnabledOnOs",
-         "@EnabledOnJre",
-         "@DisabledIfSystemProperty",
-         "@DisabledIfEnvironmentVariable",
-         "@EnabledIf"
+         "Oráculo",
+         "Neo",
+         "Morpheus",
+         "Arquiteto"
       ]
     },
     {
       "image": "https://media.giphy.com/media/YKFR0dauxYEzJA8J6U/giphy.gif",
-      "title": "Uma das características da linguagem JavaScript é:",
+      "title": "Você sabe qual foi o efeito utilizado na famosa cena de Neo desviando das balas?",
       "description": "",
       "answer": 3,
       "alternatives": [
-         "não possuir um garbage collector.",
-         "não possuir a possibilidade de alterar o tipo de uma variável após definida.",
-         "não possuir o operador condicional ‘?’ (ou ternário).",
-         "não possuir a palavra reservada ‘goto’."
+         "Chroma Key",
+         "Slow Motion",
+         "Slow Motions",
+         "Bullet-time"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/p49dttcTx0FUs/giphy.gif",
+      "title": "Quais referências de artes maciais são encontradas no filme?",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+         "Taekwondo e Kung fu",
+         "Taekwondo e Tai chi chuan",
+         "Krav magá e Muay thai",
+         "Muay thai e Tai chi chuan"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/fV0oSDsZ4UgdW/giphy.gif",
+      "title": "Matrix foi:",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+         "O filme que mais vendeu na história do cinema.",
+         "O filme mais caro já produzido.",
+         "O primeiro DVD a vender mais de 1 milhão de cópias.",
+         "Um filme que não deu certo"
       ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
